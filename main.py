@@ -5,5 +5,5 @@ def greet(name):
     print(f"Welcome {name}")
     print(f"Have a good day {name}")
 
-greet("Amir")
+greet(input("what is your name? "))
 # Updated from local cloned repository
